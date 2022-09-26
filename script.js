@@ -22,16 +22,24 @@ const pages = {
     "Hindi ko na kinuwento nung kinabukasan pero hindi ko na tinuloy. Pero ayun, hindi ko talaga gusto si kaila at never naging si kaila.",
     "Kaya sinabi ko dati na nalowbatt nako, kasi ayaw ko muna sabihin. Pero since medyo maluwag-luwag na ngayon, kaya sinabi ko na.",
     "Gusto ko lang sabihin para malabas ko na rin since ayun nga",
-  ], // a cycle of gwen's pics
+  ], 
   4: [
+    "Helloo, idk if makikita mo to pero, I missed our chats hehe",
+    "And syempre namiss ko rin mga isesend mo na sagot esp sa physics diba? <333",
+    "Sana magpatuloy pa kasi I really want to know you more as a friend, feel ko ang saya & caring mo na friend 🥴"
+  ], 
+  5: [
     "WIP",
     " ",
     "Magdadagdag ako as time goes on.",
     "Marami pa akong ilalagay here and mga additional something.",
     " ",
-    "Yun lang, thank you. Amen",
-  ], // voice mmesage ??
+    "Gagawin ko to as parang diary kasi why not. Lalagay ko rin dito mga thoughts ko abt sayo mwehehe",
+    ]
 };
+
+// a cycle of gwen's pics
+// voice mmesage ??
 
 const maxPage = Object.keys(pages).length;
 

@@ -34,7 +34,7 @@ const pages = {
     "Magdadagdag ako as time goes on.",
     "Marami pa akong ilalagay here and mga additional something.",
     " ",
-    "Gagawin ko to as parang diary kasi why not. Lalagay ko rin dito mga thoughts ko abt sayo mwehehe",
+    "Gagawin ko to as parang diary kasi why not. Lalagay ko rin dito mga thoughts ko na hindi ko kaya sabihin sayo mwehehe",
     ]
 };
 

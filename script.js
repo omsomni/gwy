@@ -29,17 +29,18 @@ const pages = {
     "Sana magpatuloy pa kasi I really want to know you more as a friend, feel ko ang saya & caring mo na friend 🥴"
   ], 
   5: [
+    "10/04/2022",
+    " ",
+    "Grabe ka na lods nagwawax ka na rin ba ng mukha mo",
+    "Parehas na kayo ni kaila kumikintab na mukha HAHAHAHHAHH"
+  ],
+  6: [
     "WIP",
     " ",
     "Magdadagdag ako as time goes on.",
     "Marami pa akong ilalagay here and mga additional something.",
     " ",
     "Gagawin ko to as parang diary kasi why not. Lalagay ko rin dito mga thoughts ko na hindi ko kaya sabihin sayo mwehehe",
-  ],
-  6: [
-    "10/04/2022",
-    "Grabe ka na lods nagwawax ka na rin ba ng mukha mo",
-    "Parehas na kayo ni kaila kumikintab na mukha HAHAHAHHAHH"
   ]
 };
 

@@ -144,7 +144,7 @@ function createLeft() {
     }
   });
 
-  // leftArrow.innerText = "⤺";
+  // leftArrow.innerText = "⤺"; <- toggle if yeah
 }
 
 function createRight() {
